@@ -1,0 +1,5 @@
+{
+  "name": "uat-1590-fixture",
+  "packageManager": "pnpm@10.0.0",
+  "scripts": { "test": "node --test" }
+}
